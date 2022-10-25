@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @denniskorff
+- 🌱 I’m currently learning NodeJS
+- 🥸 I work as a Frontend Dev
+- 💞️ I’m looking to collaborate on anything
